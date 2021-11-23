@@ -8,7 +8,7 @@ Deep Convolutional Generative Adversarial Network, is an architecture used for A
 - Output: Handwritten numbers with a fixed noise input tensor.
 - Epochs: 20, could be better output if ran for more number of epochs
 - Duration: 10th March 2021 - 25th March 2021
-- Company Name: Electron Care Unit Pvt Ltd. 
+- Company Name: Zulu Technologies.
 
 # References:
 
@@ -17,4 +17,4 @@ Deep Convolutional Generative Adversarial Network, is an architecture used for A
 [3] https://github.com/AKASHKADEL/dcgan-mnist
 
 
-### Electron Care Unit Pvt Ltd.
+### Zulu Technologies.
